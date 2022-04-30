@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+screen /opt/jdk-18/bin/java -XmxG -jar fabric-server-launch.jar nogui

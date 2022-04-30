@@ -1,0 +1,70 @@
+[00:19:58] [Server thread/INFO]: Chonsawat[/202.44.209.43:56321] logged in with entity id 107521 at (94.38868303190164, 92.0, 342.52492216353045)
+[00:19:58] [Server thread/INFO]: Chonsawat joined the game
+[00:24:14] [Server thread/INFO]: Chonsawat lost connection: Disconnected
+[00:24:14] [Server thread/INFO]: Chonsawat left the game
+[00:29:32] [Server thread/INFO]: Chonsawat[/202.44.209.43:56484] logged in with entity id 108873 at (166.1572321872627, 79.9375, -68.85228714486465)
+[00:29:32] [Server thread/INFO]: Chonsawat joined the game
+[00:41:35] [Server thread/INFO]: Chonsawat lost connection: Disconnected
+[00:41:35] [Server thread/INFO]: Chonsawat left the game
+[01:16:53] [Server thread/INFO]: Chonsawat[/202.44.209.43:50545] logged in with entity id 111988 at (163.42819060806752, 92.0, 243.45785499378277)
+[01:16:53] [Server thread/INFO]: Chonsawat joined the game
+[01:27:56] [Server thread/INFO]: Chonsawat lost connection: Disconnected
+[01:27:56] [Server thread/INFO]: Chonsawat left the game
+[06:02:47] [Server thread/INFO]: Aloong_000[/223.205.240.220:65533] logged in with entity id 114155 at (97.5, 94.0, 51.5)
+[06:02:47] [Server thread/INFO]: Aloong_000 joined the game
+[06:20:33] [Server thread/INFO]: Aloong_000 fell from a high place
+[06:20:54] [Server thread/INFO]: Aloong_000 fell from a high place
+[07:14:44] [Server thread/INFO]: Aloong_000 lost connection: Disconnected
+[07:14:44] [Server thread/INFO]: Aloong_000 left the game
+[11:03:04] [Server thread/INFO]: Aloong_000[/180.183.192.147:7925] logged in with entity id 139836 at (139.62980632892283, 88.0, -1.419421791789172)
+[11:03:04] [Server thread/INFO]: Aloong_000 joined the game
+[11:05:13] [Server thread/WARN]: Aloong_000 moved too quickly! 7.348329434307203,-2.535840625044557,-6.558988301236322
+[11:05:57] [Server thread/WARN]: Aloong_000 moved too quickly! 1.4794136045685207,0.9375,10.040686858811462
+[11:06:35] [Server thread/INFO]: Aloong_000 lost connection: Timed out
+[11:06:35] [Server thread/INFO]: Aloong_000 left the game
+[12:53:43] [Server thread/INFO]: Aloong_000[/180.183.192.147:56140] logged in with entity id 141751 at (104.56286390575333, 94.9375, 49.38713715648459)
+[12:53:43] [Server thread/INFO]: Aloong_000 joined the game
+[13:00:23] [Server thread/INFO]: Aloong_000 lost connection: Disconnected
+[13:00:23] [Server thread/INFO]: Aloong_000 left the game
+[13:53:49] [Server thread/INFO]: Chonsawat[/202.44.209.43:56548] logged in with entity id 145297 at (98.63247395650541, 99.0, 271.6026420221183)
+[13:53:49] [Server thread/INFO]: Chonsawat joined the game
+[14:32:10] [Server thread/INFO]: Villager class_1646['Villager'/145630, l='ServerLevel[world]', x=80.50, y=94.06, z=298.47] died, message: 'Villager was slain by Zombie'
+[14:59:22] [Server thread/INFO]: Aloong_000[/180.183.192.147:18217] logged in with entity id 156445 at (100.17500001192093, 95.0, 49.30000001192093)
+[14:59:22] [Server thread/INFO]: Aloong_000 joined the game
+[14:59:36] [Server thread/INFO]: <Aloong_000> hi
+[14:59:40] [Server thread/INFO]: <Chonsawat> Hi
+[15:03:34] [Server thread/INFO]: Aloong_000 lost connection: Disconnected
+[15:03:34] [Server thread/INFO]: Aloong_000 left the game
+[16:02:00] [Server thread/INFO]: Chonsawat lost connection: Disconnected
+[16:02:00] [Server thread/INFO]: Chonsawat left the game
+[17:49:43] [Server thread/INFO]: Chonsawat[/202.44.209.43:62862] logged in with entity id 166881 at (137.01974279752744, 91.0, 258.8233557425692)
+[17:49:43] [Server thread/INFO]: Chonsawat joined the game
+[17:52:19] [Server thread/WARN]: Chonsawat moved too quickly! 0.022668183919350327,0.0,-10.101487177013041
+[17:52:43] [Server thread/INFO]: [Chonsawat: Saved the game]
+[17:53:02] [Server thread/INFO]: [Chonsawat: Reloading!]
+[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:53:02] [Server thread/INFO]: Loaded 7 recipes
+[17:53:02] [Server thread/INFO]: Loaded 1141 advancements
+[17:53:02] [Server thread/INFO]: Reloading Plugin Manager [REIPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[17:53:02] [Server thread/INFO]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 6ms.
+[17:53:02] [Server thread/INFO]: Reloading Plugin Manager [REIServerPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[17:53:02] [Server thread/INFO]: Reloaded Plugin Manager [REIServerPlugin] with 4 menu infos in 1ms.
+[17:53:02] [Server thread/INFO]: Reloading Plugin Manager [REIPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[17:53:02] [Server thread/INFO]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 3ms.
+[17:53:02] [Server thread/INFO]: Reloading Plugin Manager [REIServerPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[17:53:02] [Server thread/INFO]: Reloaded Plugin Manager [REIServerPlugin] with 4 menu infos in 0ms.
+[17:53:36] [Server thread/INFO]: Stopping the server
+[17:53:36] [Server thread/INFO]: Stopping server
+[17:53:36] [Server thread/INFO]: Saving players
+[17:53:36] [Server thread/INFO]: Saving worlds
+[17:53:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:53:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:53:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:53:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:53:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:53:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:53:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
