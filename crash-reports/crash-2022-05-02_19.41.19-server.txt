@@ -1,0 +1,99 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 5/2/22, 7:41 PM
+Description: Exception in server tick loop
+
+java.lang.IllegalArgumentException: File parameter 'file is not writable: './world/stats/37662e44-a012-311e-b2a6-97a7bf3d36aa.json'
+	at org.apache.commons.io.FileUtils.requireCanWrite(FileUtils.java:2619)
+	at org.apache.commons.io.FileUtils.openOutputStream(FileUtils.java:2447)
+	at org.apache.commons.io.FileUtils.writeStringToFile(FileUtils.java:3540)
+	at org.apache.commons.io.FileUtils.writeStringToFile(FileUtils.java:3489)
+	at net.minecraft.class_3442.method_14912(class_3442.java:60)
+	at net.minecraft.class_3324.method_14577(class_3324.java:362)
+	at net.minecraft.class_3324.method_14617(class_3324.java:678)
+	at net.minecraft.server.MinecraftServer.method_39218(MinecraftServer.java:587)
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:876)
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697)
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:273)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Linux (amd64) version 5.13.0-1027-oracle
+	Java Version: 18, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 1168453728 bytes (1114 MiB) / 2919235584 bytes (2784 MiB) up to 5368709120 bytes (5120 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7J13 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: Device
+	Graphics card #0 vendor: Vendor (0x1234)
+	Graphics card #0 VRAM (MB): 16.00
+	Graphics card #0 deviceId: 0x1111
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 2461.16
+	Virtual memory used (MB): 3673.03
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 1 total; -Xmx5G
+	Fabric Mods: 
+		architectury: Architectury 4.1.39
+		cloth-basic-math: cloth-basic-math 0.6.0
+		cloth-config: Cloth Config v6 6.2.57
+		fabric: Fabric API 0.48.0+1.18.2
+		fabric-api-base: Fabric API Base 0.4.4+d7c144a860
+		fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.5.7+d7c144a860
+		fabric-biome-api-v1: Fabric Biome API (v1) 8.0.3+801ec85b60
+		fabric-command-api-v1: Fabric Command API (v1) 1.1.9+d7c144a860
+		fabric-commands-v0: Fabric Commands (v0) 0.2.8+b4f4f6cd60
+		fabric-containers-v0: Fabric Containers (v0) 0.1.21+d7c144a860
+		fabric-content-registries-v0: Fabric Content Registries (v0) 3.0.2+d82b939260
+		fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.1.11+3ac43d9560
+		fabric-dimensions-v1: Fabric Dimensions API (v1) 2.1.17+2540745460
+		fabric-entity-events-v1: Fabric Entity Events (v1) 1.4.8+d7c144a860
+		fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.4.19+d7c144a860
+		fabric-events-lifecycle-v0: Fabric Events Lifecycle (v0) 0.2.13+d7c144a860
+		fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.13+d7c144a860
+		fabric-item-api-v1: Fabric Item API (v1) 1.3.3+691a79b560
+		fabric-item-groups-v0: Fabric Item Groups (v0) 0.3.10+3ac43d9560
+		fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.0.2+2540745460
+		fabric-loot-tables-v1: Fabric Loot Tables (v1) 1.0.11+d7c144a860
+		fabric-mining-level-api-v1: Fabric Mining Level API (v1) 2.0.4+d1027f7d60
+		fabric-networking-api-v1: Fabric Networking API (v1) 1.0.21+d882b91560
+		fabric-networking-v0: Fabric Networking (v0) 0.3.8+b4f4f6cd60
+		fabric-object-builder-api-v1: Fabric Object Builder API (v1) 2.0.3+40c91ec860
+		fabric-particles-v1: Fabric Particles (v1) 0.2.12+526dc1ac60
+		fabric-registry-sync-v0: Fabric Registry Sync (v0) 0.9.8+0d9ab37260
+		fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.7+d7c144a860
+		fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 2.0.2+54e5b2ec60
+		fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 2.0.2+d1027f7d60
+		fabric-resource-loader-v0: Fabric Resource Loader (v0) 0.4.18+2de5574560
+		fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.1.14+40c91ec860
+		fabric-transfer-api-v1: Fabric Transfer API (v1) 1.5.14+cca23f9360
+		fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 1.0.0+40c91ec860
+		fabricloader: Fabric Loader 0.13.3
+		fallingtree: FallingTree 3.4.2
+		java: OpenJDK 64-Bit Server VM 18
+		minecraft: Minecraft 1.18.2
+		roughlyenoughitems: Roughly Enough Items 8.0.442
+		skinrestorer: Skin Restorer 1.0.4
+		xaerominimap: Xaero's Minimap 22.4.0
+	Server Running: true
+	Player Count: 1 / 100; [class_3222['Kmonsan'/191, l='ServerLevel[world]', x=159.35, y=62.00, z=-89.59]]
+	Data Packs: vanilla
+	World Generation: Stable
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server (map_server.txt)
