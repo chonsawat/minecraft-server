@@ -7,3 +7,6 @@ This repository was keep backup my Minecraft world and mods which I have been in
 Version:
 - Minecraft : 1.18.2
 - Fabric Mod Loader: 0.13.*
+
+Start Server:
+- `./start.sh` หรือ `bash start.sh`
