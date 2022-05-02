@@ -3,6 +3,7 @@ This repository was keep backup my Minecraft world and mods which I have been in
 
 แนะนำเครื่อง
 - มี Memory 5 GB ขึ้น (ตัว Server จะล็อคไว 4 GB)
+- (ถ้าไม่อยากให้ Server ดับเลยแนะนำแก้ไฟล์ start.sh ให้ mx ที่ 6GB ขึ้นไป **ต่ำกวก่านี้อาจะหลุดบ้างโดยเฉพาะเปิดข้ามวันเลย**)
 
 Version:
 - Minecraft : 1.18.2
