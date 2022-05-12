@@ -11,3 +11,6 @@ Version:
 
 Start Server:
 - `./start.sh` หรือ `bash start.sh`
+
+Mod & Resource Pack is here:
+https://chonsawat.notion.site/Minecraft-Server-63d813350a1947aca9c64b04ba36f528
