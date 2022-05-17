@@ -1,70 +1,247 @@
-[00:19:58] [Server thread/INFO]: Chonsawat[/202.44.209.43:56321] logged in with entity id 107521 at (94.38868303190164, 92.0, 342.52492216353045)
-[00:19:58] [Server thread/INFO]: Chonsawat joined the game
-[00:24:14] [Server thread/INFO]: Chonsawat lost connection: Disconnected
-[00:24:14] [Server thread/INFO]: Chonsawat left the game
-[00:29:32] [Server thread/INFO]: Chonsawat[/202.44.209.43:56484] logged in with entity id 108873 at (166.1572321872627, 79.9375, -68.85228714486465)
-[00:29:32] [Server thread/INFO]: Chonsawat joined the game
-[00:41:35] [Server thread/INFO]: Chonsawat lost connection: Disconnected
-[00:41:35] [Server thread/INFO]: Chonsawat left the game
-[01:16:53] [Server thread/INFO]: Chonsawat[/202.44.209.43:50545] logged in with entity id 111988 at (163.42819060806752, 92.0, 243.45785499378277)
-[01:16:53] [Server thread/INFO]: Chonsawat joined the game
-[01:27:56] [Server thread/INFO]: Chonsawat lost connection: Disconnected
-[01:27:56] [Server thread/INFO]: Chonsawat left the game
-[06:02:47] [Server thread/INFO]: Aloong_000[/223.205.240.220:65533] logged in with entity id 114155 at (97.5, 94.0, 51.5)
-[06:02:47] [Server thread/INFO]: Aloong_000 joined the game
-[06:20:33] [Server thread/INFO]: Aloong_000 fell from a high place
-[06:20:54] [Server thread/INFO]: Aloong_000 fell from a high place
-[07:14:44] [Server thread/INFO]: Aloong_000 lost connection: Disconnected
-[07:14:44] [Server thread/INFO]: Aloong_000 left the game
-[11:03:04] [Server thread/INFO]: Aloong_000[/180.183.192.147:7925] logged in with entity id 139836 at (139.62980632892283, 88.0, -1.419421791789172)
-[11:03:04] [Server thread/INFO]: Aloong_000 joined the game
-[11:05:13] [Server thread/WARN]: Aloong_000 moved too quickly! 7.348329434307203,-2.535840625044557,-6.558988301236322
-[11:05:57] [Server thread/WARN]: Aloong_000 moved too quickly! 1.4794136045685207,0.9375,10.040686858811462
-[11:06:35] [Server thread/INFO]: Aloong_000 lost connection: Timed out
-[11:06:35] [Server thread/INFO]: Aloong_000 left the game
-[12:53:43] [Server thread/INFO]: Aloong_000[/180.183.192.147:56140] logged in with entity id 141751 at (104.56286390575333, 94.9375, 49.38713715648459)
-[12:53:43] [Server thread/INFO]: Aloong_000 joined the game
-[13:00:23] [Server thread/INFO]: Aloong_000 lost connection: Disconnected
-[13:00:23] [Server thread/INFO]: Aloong_000 left the game
-[13:53:49] [Server thread/INFO]: Chonsawat[/202.44.209.43:56548] logged in with entity id 145297 at (98.63247395650541, 99.0, 271.6026420221183)
-[13:53:49] [Server thread/INFO]: Chonsawat joined the game
-[14:32:10] [Server thread/INFO]: Villager class_1646['Villager'/145630, l='ServerLevel[world]', x=80.50, y=94.06, z=298.47] died, message: 'Villager was slain by Zombie'
-[14:59:22] [Server thread/INFO]: Aloong_000[/180.183.192.147:18217] logged in with entity id 156445 at (100.17500001192093, 95.0, 49.30000001192093)
-[14:59:22] [Server thread/INFO]: Aloong_000 joined the game
-[14:59:36] [Server thread/INFO]: <Aloong_000> hi
-[14:59:40] [Server thread/INFO]: <Chonsawat> Hi
-[15:03:34] [Server thread/INFO]: Aloong_000 lost connection: Disconnected
-[15:03:34] [Server thread/INFO]: Aloong_000 left the game
-[16:02:00] [Server thread/INFO]: Chonsawat lost connection: Disconnected
-[16:02:00] [Server thread/INFO]: Chonsawat left the game
-[17:49:43] [Server thread/INFO]: Chonsawat[/202.44.209.43:62862] logged in with entity id 166881 at (137.01974279752744, 91.0, 258.8233557425692)
-[17:49:43] [Server thread/INFO]: Chonsawat joined the game
-[17:52:19] [Server thread/WARN]: Chonsawat moved too quickly! 0.022668183919350327,0.0,-10.101487177013041
-[17:52:43] [Server thread/INFO]: [Chonsawat: Saved the game]
-[17:53:02] [Server thread/INFO]: [Chonsawat: Reloading!]
-[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:53:02] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:53:02] [Server thread/INFO]: Loaded 7 recipes
-[17:53:02] [Server thread/INFO]: Loaded 1141 advancements
-[17:53:02] [Server thread/INFO]: Reloading Plugin Manager [REIPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
-[17:53:02] [Server thread/INFO]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 6ms.
-[17:53:02] [Server thread/INFO]: Reloading Plugin Manager [REIServerPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
-[17:53:02] [Server thread/INFO]: Reloaded Plugin Manager [REIServerPlugin] with 4 menu infos in 1ms.
-[17:53:02] [Server thread/INFO]: Reloading Plugin Manager [REIPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
-[17:53:02] [Server thread/INFO]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 3ms.
-[17:53:02] [Server thread/INFO]: Reloading Plugin Manager [REIServerPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
-[17:53:02] [Server thread/INFO]: Reloaded Plugin Manager [REIServerPlugin] with 4 menu infos in 0ms.
-[17:53:36] [Server thread/INFO]: Stopping the server
-[17:53:36] [Server thread/INFO]: Stopping server
-[17:53:36] [Server thread/INFO]: Saving players
-[17:53:36] [Server thread/INFO]: Saving worlds
-[17:53:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:53:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:53:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:53:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:53:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:53:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:53:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:04:17] [main/INFO]: Loading Minecraft 1.18.2 with Fabric Loader 0.13.3
+[21:04:17] [main/INFO]: Loading 41 mods:
+	- architectury 4.1.39
+	- cloth-basic-math 0.6.0 via cloth-config
+	- cloth-config 6.2.57
+	- fabric 0.48.0+1.18.2
+	- fabric-api-base 0.4.4+d7c144a860 via fabric
+	- fabric-api-lookup-api-v1 1.5.7+d7c144a860 via fabric
+	- fabric-biome-api-v1 8.0.3+801ec85b60 via fabric
+	- fabric-command-api-v1 1.1.9+d7c144a860 via fabric
+	- fabric-commands-v0 0.2.8+b4f4f6cd60 via fabric
+	- fabric-containers-v0 0.1.21+d7c144a860 via fabric
+	- fabric-content-registries-v0 3.0.2+d82b939260 via fabric
+	- fabric-crash-report-info-v1 0.1.11+3ac43d9560 via fabric
+	- fabric-dimensions-v1 2.1.17+2540745460 via fabric
+	- fabric-entity-events-v1 1.4.8+d7c144a860 via fabric
+	- fabric-events-interaction-v0 0.4.19+d7c144a860 via fabric
+	- fabric-events-lifecycle-v0 0.2.13+d7c144a860 via fabric
+	- fabric-game-rule-api-v1 1.0.13+d7c144a860 via fabric
+	- fabric-item-api-v1 1.3.3+691a79b560 via fabric
+	- fabric-item-groups-v0 0.3.10+3ac43d9560 via fabric
+	- fabric-lifecycle-events-v1 2.0.2+2540745460 via fabric
+	- fabric-loot-tables-v1 1.0.11+d7c144a860 via fabric
+	- fabric-mining-level-api-v1 2.0.4+d1027f7d60 via fabric
+	- fabric-networking-api-v1 1.0.21+d882b91560 via fabric
+	- fabric-networking-v0 0.3.8+b4f4f6cd60 via fabric
+	- fabric-object-builder-api-v1 2.0.3+40c91ec860 via fabric
+	- fabric-particles-v1 0.2.12+526dc1ac60 via fabric
+	- fabric-registry-sync-v0 0.9.8+0d9ab37260 via fabric
+	- fabric-rendering-data-attachment-v1 0.3.7+d7c144a860 via fabric
+	- fabric-rendering-fluids-v1 2.0.2+54e5b2ec60 via fabric
+	- fabric-resource-conditions-api-v1 2.0.2+d1027f7d60 via fabric
+	- fabric-resource-loader-v0 0.4.18+2de5574560 via fabric
+	- fabric-screen-handler-api-v1 1.1.14+40c91ec860 via fabric
+	- fabric-transfer-api-v1 1.5.14+cca23f9360 via fabric
+	- fabric-transitive-access-wideners-v1 1.0.0+40c91ec860 via fabric
+	- fabricloader 0.13.3
+	- fallingtree 3.4.2
+	- java 18
+	- minecraft 1.18.2
+	- roughlyenoughitems 8.0.442
+	- skinrestorer 1.0.4
+	- xaerominimap 22.4.0
+[21:04:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/E:/Media%20files/Minecraft%20Server/libraries/net/fabricmc/sponge-mixin/0.11.2+mixin.0.8.5/sponge-mixin-0.11.2+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[21:04:17] [main/INFO]: Compatibility level set to JAVA_16
+[21:04:17] [main/INFO]: Compatibility level set to JAVA_17
+[21:05:26] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on fabric-lifecycle-events-v1.mixins.json:server.WorldChunkMixin::handler$zed000$onLoadBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[21:05:36] [main/INFO]: Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[21:05:36] [main/INFO]: Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[21:05:36] [main/INFO]: Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[21:05:36] [main/INFO]: Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[21:05:36] [main/INFO]: Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[21:05:36] [main/INFO]: Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[21:05:36] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21:05:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:05:39] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[21:05:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:05:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:05:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:05:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:05:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:05:44] [Worker-Main-11/INFO]: Loaded 7 recipes
+[21:05:44] [Worker-Main-11/INFO]: Loaded 1141 advancements
+[21:05:45] [Worker-Main-11/INFO]: Reloading Plugin Manager [REIPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[21:05:45] [Worker-Main-11/INFO]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 88ms.
+[21:05:45] [Worker-Main-11/INFO]: Reloading Plugin Manager [REIServerPlugin] stage [START], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[21:05:45] [Worker-Main-11/INFO]: Reloaded Plugin Manager [REIServerPlugin] with 0 menu infos in 4ms.
+[21:05:45] [Worker-Main-11/INFO]: Reloading Plugin Manager [REIPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[21:05:45] [Worker-Main-11/INFO]: Reloaded Plugin Manager [REIPlugin] with 2 entry types, 5 item comparators, 0 fluid comparators and 2 fluid support providers in 68ms.
+[21:05:45] [Worker-Main-11/INFO]: Reloading Plugin Manager [REIServerPlugin] stage [END], registered 3 plugins: DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[21:05:45] [Worker-Main-11/INFO]: Reloaded Plugin Manager [REIServerPlugin] with 4 menu infos in 51ms.
+[21:05:50] [main/INFO]: Applied 0 biome modifications to 0 of 61 new biomes in 3.991 ms
+[21:05:50] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[21:05:50] [Server thread/INFO]: Loading properties
+[21:05:50] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[21:05:50] [Server thread/INFO]: Default game type: SURVIVAL
+[21:05:50] [Server thread/INFO]: Generating keypair
+[21:05:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:05:50] [Server thread/INFO]: Using default channel type
+[21:05:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:05:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:05:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:05:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:05:51] [Server thread/INFO]: Preparing level "world"
+[21:05:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:05:54] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:06:01] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:01] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:02] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:06:03] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:03] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:06:04] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:06:04] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:05] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:06:09] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:06:09] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:09] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:06:09] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:06:09] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[21:06:09] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:06:09] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:06:09] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:06:09] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:10] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:10] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:06:11] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:06:11] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:06:12] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:06:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[21:06:13] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[21:06:13] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[21:06:14] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[21:06:14] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[21:06:15] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[21:06:16] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[21:06:16] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:17] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:18] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[21:06:18] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[21:06:18] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[21:06:19] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[21:06:19] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[21:06:19] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[21:06:20] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[21:06:20] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:21] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:22] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:06:22] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:06:23] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:06:23] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[21:06:24] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[21:06:24] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:25] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:25] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:06:25] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:26] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[21:06:26] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[21:06:27] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[21:06:27] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[21:06:28] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:06:28] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[21:06:29] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:06:30] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[21:06:30] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[21:06:31] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[21:06:31] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:31] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:06:32] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:32] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[21:06:33] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[21:06:33] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[21:06:34] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[21:06:34] [Worker-Main-11/INFO]: Preparing spawn area: 5%
+[21:06:35] [Worker-Main-14/INFO]: Preparing spawn area: 5%
+[21:06:35] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[21:06:37] [Worker-Main-14/INFO]: Preparing spawn area: 6%
+[21:06:37] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[21:06:37] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[21:06:38] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[21:06:38] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[21:06:39] [Worker-Main-14/INFO]: Preparing spawn area: 6%
+[21:06:39] [Worker-Main-14/INFO]: Preparing spawn area: 6%
+[21:06:40] [Worker-Main-9/INFO]: Preparing spawn area: 6%
+[21:06:40] [Worker-Main-9/INFO]: Preparing spawn area: 6%
+[21:06:41] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[21:06:44] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[21:06:44] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[21:06:44] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[21:06:44] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[21:06:44] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[21:06:44] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[21:06:45] [Worker-Main-14/INFO]: Preparing spawn area: 6%
+[21:06:45] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[21:06:45] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[21:06:45] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[21:06:46] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[21:06:47] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[21:06:47] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[21:06:48] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[21:06:48] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[21:06:48] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[21:06:49] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[21:06:49] [Worker-Main-14/INFO]: Preparing spawn area: 6%
+[21:06:50] [Worker-Main-13/INFO]: Preparing spawn area: 7%
+[21:06:50] [Worker-Main-8/INFO]: Preparing spawn area: 11%
+[21:06:51] [Worker-Main-14/INFO]: Preparing spawn area: 11%
+[21:06:52] [Worker-Main-12/INFO]: Preparing spawn area: 14%
+[21:06:52] [Worker-Main-10/INFO]: Preparing spawn area: 14%
+[21:06:52] [Worker-Main-10/INFO]: Preparing spawn area: 18%
+[21:06:53] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[21:06:53] [Worker-Main-14/INFO]: Preparing spawn area: 25%
+[21:06:54] [Worker-Main-9/INFO]: Preparing spawn area: 25%
+[21:06:54] [Worker-Main-13/INFO]: Preparing spawn area: 28%
+[21:06:55] [Worker-Main-8/INFO]: Preparing spawn area: 29%
+[21:06:56] [Worker-Main-8/INFO]: Preparing spawn area: 29%
+[21:06:56] [Worker-Main-14/INFO]: Preparing spawn area: 29%
+[21:06:57] [Worker-Main-14/INFO]: Preparing spawn area: 30%
+[21:06:57] [Worker-Main-13/INFO]: Preparing spawn area: 31%
+[21:06:58] [Worker-Main-8/INFO]: Preparing spawn area: 32%
+[21:06:58] [Worker-Main-10/INFO]: Preparing spawn area: 34%
+[21:06:58] [Worker-Main-12/INFO]: Preparing spawn area: 36%
+[21:06:59] [Worker-Main-12/INFO]: Preparing spawn area: 38%
+[21:07:00] [Worker-Main-10/INFO]: Preparing spawn area: 45%
+[21:07:00] [Worker-Main-14/INFO]: Preparing spawn area: 48%
+[21:07:00] [Worker-Main-12/INFO]: Preparing spawn area: 63%
+[21:07:01] [Worker-Main-12/INFO]: Preparing spawn area: 66%
+[21:07:01] [Worker-Main-8/INFO]: Preparing spawn area: 68%
+[21:07:02] [Worker-Main-8/INFO]: Preparing spawn area: 85%
+[21:07:04] [Server thread/INFO]: Time elapsed: 71602 ms
+[21:07:04] [Server thread/INFO]: Done (72.369s)! For help, type "help"
+[21:07:04] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21:07:20] [Server thread/INFO]: Chonsawat[/127.0.0.1:49897] logged in with entity id 191 at (139.449404112868, 93.0, 264.82581238811827)
+[21:07:21] [Server thread/INFO]: Chonsawat joined the game
+[21:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4012ms or 80 ticks behind
+[21:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[21:09:06] [Server thread/INFO]: [Chonsawat: Saved the game]
+[21:11:48] [Server thread/INFO]: Chonsawat lost connection: Disconnected
+[21:11:48] [Server thread/INFO]: Chonsawat left the game
+[21:12:09] [Server thread/INFO]: Stopping the server
+[21:12:09] [Server thread/INFO]: Stopping server
+[21:12:09] [Server thread/INFO]: Saving players
+[21:12:09] [Server thread/INFO]: Saving worlds
+[21:12:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:12:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:12:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:12:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:12:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:12:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:12:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
